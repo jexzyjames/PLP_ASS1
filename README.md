@@ -5,11 +5,11 @@ SE_Day1_Assignment
 # Part 1: Introduction to Software Engineering
 
 # Explain what software engineering is and discuss its importance in the technology industry
-software engineering is a branch of computer science used for developing, testing and maintaining software.
- 1. reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
- 2. efficiency - it helps to optimize developer workflow while maintaining high quality standards.
- 3. scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
- 4. security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
+Software engineering is a branch of computer science used for developing, testing and maintaining software.
+ 1. Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+ 2. Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+ 3. Scalability and Flexibility - it ensures that the system can handle an increased load without affecting performance.
+ 4. Security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 # Identify and describe at least three key milestones in the evolution of software engineering.  
@@ -19,8 +19,8 @@ software engineering is a branch of computer science used for developing, testin
 
 
 # List and briefly explain the phases of the Software Development Life Cycle.
-1. planning - identify the software requirement or purpose and scope.
-2. Requirement analysis - identify the final user specification. 
+1. Planning - identify the software requirement or purpose and scope.
+2. Requirement Analysis - identify the final user specification. 
 3. Design - building the framework. 
 4. Coding - converting software design into tangible code.
 5. Testing - examine the software for any bugs and glitches
